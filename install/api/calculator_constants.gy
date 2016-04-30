@@ -1,0 +1,8 @@
+
+// Mathematical constants
+PI = 3.14159265359
+pi = 3.14159265359
+e = 2.71828
+g = 9.8
+today = System.currentTimeMillis() / 1000.0
+now = System.currentTimeMillis() / 1000.0
